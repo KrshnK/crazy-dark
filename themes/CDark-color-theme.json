@@ -1,13 +1,79 @@
 {
 	"name": "CDark",
 	"colors": {
-		"editor.background": "#1E1E1E",
-		"editor.foreground": "#FFFFFF",
-		"editor.selectionBackground": "#DD6A6A",
-		"editorLineNumber.foreground": "#00FF00",
-		"editorCursor.foreground": "#FF00FF",
-		"editor.lineHighlightBackground": "#333333",
-		"editorIndentGuide.background1": "#404040"
+		"editor.background": "#16232a",
+    "editor.foreground": "#05fcdb",
+    "editor.selectionBackground": "#488db57c",
+    "editorLineNumber.foreground": "#00a2ff",
+    "editorCursor.foreground": "#86dca5",
+    "editor.lineHighlightBackground": "#223b6e",
+    "editorIndentGuide.background1": "#761515",
+    "editor.findMatchBackground": "#e60000",
+    "editor.findMatchHighlightBackground": "#ffd700",
+    "editor.findRangeHighlightBackground": "#6600003d",
+    "editor.hoverHighlightBackground": "#062f4a",
+    "editor.wordHighlightBackground": "#ffaa0099",
+    "editor.wordHighlightStrongBackground": "#ffaa00cc",
+    "editor.selectionHighlightBackground": "#00436d",
+    "editor.inactiveSelectionBackground": "#00436d80",
+    "editorBracketMatch.background": "#ff0000",
+    "editorBracketMatch.border": "#ffffff",
+    "editorCodeLens.foreground": "#ffffff",
+    "editorGroup.border": "#33495f",
+    "editorGroupHeader.tabsBackground": "#0e1923",
+    "editorGroupHeader.tabsBorder": "#33495f",
+    "editorGutter.background": "#0e1923",
+    "editorGutter.modifiedBackground": "#3e7eff",
+    "editorGutter.addedBackground": "#81b88b",
+    "editorGutter.deletedBackground": "#ca4b51",
+    "editorMarkerNavigation.background": "#33495f",
+    "editorOverviewRuler.border": "#33495f",
+    "editorOverviewRuler.findMatchForeground": "#d1861677",
+    "editorOverviewRuler.modifiedForeground": "#3e7eff",
+    "editorOverviewRuler.addedForeground": "#81b88b",
+    "editorOverviewRuler.deletedForeground": "#ca4b51",
+    "editorOverviewRuler.errorForeground": "#ff1212",
+    "editorOverviewRuler.warningForeground": "#ffbe00",
+    "editorWhitespace.foreground": "#33495f",
+    "editorError.foreground": "#ff1212",
+    "editorWarning.foreground": "#ffbe00",
+    "editorInfo.foreground": "#00a2ff",
+    "editorHint.foreground": "#81b88b",
+    "activityBar.background": "#0e1923",
+    "activityBar.foreground": "#05fcdb",
+    "activityBar.border": "#33495f",
+    "activityBarBadge.background": "#81b88b",
+    "activityBarBadge.foreground": "#ffffff",
+    "sideBar.background": "#0e1923",
+    "sideBar.foreground": "#05fcdb",
+    "sideBar.border": "#33495f",
+    "sideBarTitle.foreground": "#05fcdb",
+    "sideBarSectionHeader.background": "#0e1923",
+    "sideBarSectionHeader.foreground": "#05fcdb",
+    "titleBar.activeBackground": "#0e1923",
+    "titleBar.activeForeground": "#05fcdb",
+    "titleBar.inactiveBackground": "#0e1923",
+    "titleBar.inactiveForeground": "#05fcdb",
+    "menu.background": "#0e1923",
+    "menu.foreground": "#05fcdb",
+    "menu.selectionBackground": "#33495f",
+    "menu.selectionForeground": "#05fcdb",
+    "menu.border": "#33495f",
+    "menu.separatorBackground": "#33495f",
+    "list.hoverBackground": "#33495f",
+    "list.focusBackground": "#33495f",
+    "editorWidget.background": "#0e1923",
+    "editorWidget.foreground": "#05fcdb",
+    "peekView.border": "#33495f",
+    "peekViewTitle.background": "#0e1923",
+    "peekViewTitleLabel.foreground": "#05fcdb",
+    "peekViewEditor.background": "#0e1923",
+    "peekViewResult.background": "#0e1923",
+    "peekViewResult.selectionBackground": "#33495f",
+    "peekViewResult.fileForeground": "#05fcdb",
+    "peekViewResult.lineForeground": "#05fcdb",
+    "peekViewResult.matchHighlightBackground": "#33495f",
+    "peekViewEditor.matchHighlightBackground": "#33495f",
 	},
 	"tokenColors": [
 		{
@@ -18,7 +84,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#546E7A"
+				"foreground": "#456472"
 			}
 		},
 		{
@@ -28,7 +94,7 @@
 				"string constant.other.placeholder"
 			],
 			"settings": {
-				"foreground": "#EEFFFF"
+				"foreground": "#d5d4d4"
 			}
 		},
 		{
@@ -615,7 +681,7 @@
 			],
 			"settings": {
 				"fontStyle": "bold",
-				"foreground": "#65737E"
+				"foreground": "#2f3941"
 			}
 		},
 		{
