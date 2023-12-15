@@ -4,6 +4,7 @@
   "publisher": "KrishnaWrk01",
   "description": "Leave Blank",
   "version": "0.0.1",
+  "icon": "",
   "engines": {
     "vscode": "^1.85.0"
   },

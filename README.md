@@ -2,7 +2,7 @@
 
 The Crazy Dark Theme is a vibrant and unique color theme for Visual Studio Code. It offers a distinctive color palette for syntax highlighting and various UI elements, creating an exciting and eye-catching coding experience.
 
-![Crazy Dark Theme Screenshot](https://github.com/Krishna01work/crazy-dark/blob/master/Screenshot.jpg)
+![Crazy Dark Theme Screenshot][https://github.com/Krishna01work/crazy-dark/blob/master/Screenshot.jpg]
 
 ## Features
 
@@ -40,3 +40,6 @@ This extension is licensed under the [MIT License](LICENSE).
 **Enjoy coding with the Crazy Dark Theme!**
 
 If you find this theme helpful, consider leaving a review or rating on the Visual Studio Code Marketplace. Thank you! 🎨✨
+
+
+[https://github.com/Krishna01work/crazy-dark/blob/master/Screenshot.jpg]: https://github.com/Krishna01work/crazy-dark/blob/master/Screenshot.jpg
