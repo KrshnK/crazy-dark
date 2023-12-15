@@ -7,7 +7,7 @@
 		"editorLineNumber.foreground": "#00FF00",
 		"editorCursor.foreground": "#FF00FF",
 		"editor.lineHighlightBackground": "#333333",
-		"editorIndentGuide.background": "#404040"
+		"editorIndentGuide.background1": "#404040"
 	},
 	"tokenColors": [
 		{
