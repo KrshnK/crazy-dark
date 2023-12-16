@@ -3,6 +3,10 @@
   "displayName": "Crazy-Dark",
   "publisher": "KrishnaWrk01",
   "description": "Leave Blank",
+  "repository": {
+    "type": "github",
+    "url": "https://github.com/Krishna01work/crazy-dark"
+  },
   "version": "0.0.1",
   "icon": "",
   "engines": {
