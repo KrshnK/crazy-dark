@@ -6,7 +6,7 @@
   "version": "0.0.1",
   "icon": "",
   "engines": {
-    "vscode": "^1.40.0 || ^1.50.0 || ^1.60.0 || ^1.70.0 || ^1.80.0 || ^1.85.0"
+    "vscode": ">=1.45.0"
   },
   "categories": [
     "Themes"
@@ -19,5 +19,8 @@
         "path": "./themes/CDark-color-theme.json"
       }
     ]
+  },
+  "dependencies": {
+    "vscode-theme-generator": "^7.0.0" 
   }
 }
