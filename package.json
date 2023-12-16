@@ -19,8 +19,5 @@
         "path": "./themes/CDark-color-theme.json"
       }
     ]
-  },
-  "dependencies": {
-    "vscode-theme-generator": "^7.0.0" 
   }
 }
