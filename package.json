@@ -8,7 +8,7 @@
     "url": "https://github.com/Krishna01work/crazy-dark"
   },
   "version": "0.0.1",
-  "icon": "",
+  "icon": "night-mode.png",
   "engines": {
     "vscode": ">=1.45.0"
   },
